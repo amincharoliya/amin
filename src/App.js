@@ -3,7 +3,6 @@ import Home from './home';
 import Notfound from './notfound';
 import { Route, BrowserRouter as Router, Switch } from 'react-router-dom';
 
-import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
