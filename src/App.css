@@ -29,7 +29,6 @@ body {
     -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
     font-feature-settings: "kern", "liga", "clig", "calt";
 }
-.Banner{text-shadow: rgba(0, 0, 0, 0.1) 1px 2px;}
 h1{font-family: 'Lora', serif;font-weight: 700;text-rendering: optimizeLegibility;font-size: 3.157rem;line-height: 1.1;margin-bottom: 15px;}
 p{font-size: 1.7rem;line-height: 1.4;margin-bottom: 2rem;}
 .social {padding: 0;margin: 0;}
