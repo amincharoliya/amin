@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ProfilePhoto from './images/DSC_0983.jpg';
+import ProfilePhoto from './images/Amin.jpg';
 
 class Banner extends Component {
     render() {
