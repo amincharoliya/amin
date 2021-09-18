@@ -15,6 +15,7 @@ class Banner extends Component {
                     <li><a href="https://twitter.com/amincharoliya" target="_blank" rel="noopener noreferrer" >Twitter</a></li>
                     <li><a href="https://www.linkedin.com/in/amin-charoliya-392bab81" target="_blank" rel="noopener noreferrer" >LinkedIn</a></li>
                     <li><a href="https://codepen.io/aminhaider/" target="_blank" rel="noopener noreferrer" >Codepen</a></li>
+                    <li><a href="https://quiz-with-reactjs.vercel.app/" target="_blank" rel="noopener noreferrer">Quiz App</a></li>
                     <li><a href="https://reactjs-games.netlify.app/mind-game" target="_blank" rel="noopener noreferrer" >Mind Game</a></li>
 
                 </ul>
