@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lora');
 *{margin:0;padding:0;}
 ::selection{background-color: #ffd900;}
-/*Global Variables*/
+/*Global Variables*/ 
 html.theme-light {
   --main-bg-color: #ebedf2;
   --main-text-color: #222;
